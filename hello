@@ -1,7 +1,7 @@
-import <iostream>
+#include <iostream>
+using namespace std;
 
-using stnd namespace;
-
-main(){
-  cout >> "Hello World!"
+int main() {
+  cout << "Hello World!"
+  return 0;
 }
