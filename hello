@@ -1,0 +1,7 @@
+import <iostream>
+
+using stnd namespace;
+
+main(){
+  cout >> "Hello World!"
+}
